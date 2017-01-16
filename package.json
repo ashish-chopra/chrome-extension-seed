@@ -1,0 +1,39 @@
+{
+  "name": "chrome-extension-seed",
+  "version": "1.0.0",
+  "description": "A scaffolded starter project to setup chrome extension development environment in Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp",
+    "build:dev": "gulp build:dev",
+    "package": "gulp package",
+    "clean": "gulp clean"
+  },
+  "keywords": [
+    "Chrome",
+    "extensions",
+    "web",
+    "store",
+    "apps",
+    "Google",
+    "Chrome"
+  ],
+  "author": "Ashish Chopra",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.0",
+    "gulp-zip": "^3.2.0",
+    "main-bower-files": "^2.13.1",
+    "run-sequence": "^1.2.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

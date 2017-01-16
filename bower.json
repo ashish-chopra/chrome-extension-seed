@@ -1,0 +1,26 @@
+{
+  "name": "chrome-extension-seed",
+  "description": "A scaffolded starter project to setup chrome extension development environment in Gulp",
+  "main": "index.js",
+  "authors": [
+    "Ashish Chopra"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Chrome",
+    "extensions",
+    "web",
+    "store",
+    "apps",
+    "Google",
+    "Chrome"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
